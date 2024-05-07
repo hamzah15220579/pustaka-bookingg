@@ -57,6 +57,10 @@ class Matakuliah extends CI_Controller
                 $data = [
                 'nim'       => $this->input->post('nim'),
                 'nama'      => $this->input->post('nama'),
+                'nis'       => $this->input->post('nis'),
+                'kelas'     => $this->input-post('kelas'),
+                'agama'     => $this->input-post('agama'),
+                'kelamin'   => $this->input-post('kelamin'),
                 'date'      => $this->input->post('date'),
                 'tmptlhr'   => $this->input->post('tmptlhr'),
                 'alamat'    => $this->input->post('alamat')
