@@ -24,4 +24,4 @@ base_url().'index.php/web/about' ?>">About</a></li>
  </ul>
  </nav>
  <div class="clear"></div>
- </header>
+</header>
