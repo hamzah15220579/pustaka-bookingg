@@ -50,5 +50,5 @@ base_url('autentifikasi/registrasi'); ?>">Daftar Member!</a>
                 </div>
             </div>
         </div>
-    </div>
+	</div>
 </div>
